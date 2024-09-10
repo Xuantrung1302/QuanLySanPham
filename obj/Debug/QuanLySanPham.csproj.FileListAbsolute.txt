@@ -1,0 +1,16 @@
+E:\Beesystem\W1\05-09-2024\BT_QUANLYSP\QuanLySanPham\obj\Debug\QuanLySanPham.csproj.AssemblyReference.cache
+E:\Beesystem\W1\05-09-2024\BT_QUANLYSP\QuanLySanPham\obj\Debug\QuanLySanPham.Properties.Resources.resources
+E:\Beesystem\W1\05-09-2024\BT_QUANLYSP\QuanLySanPham\obj\Debug\QuanLySanPham.csproj.GenerateResource.cache
+E:\Beesystem\W1\05-09-2024\BT_QUANLYSP\QuanLySanPham\obj\Debug\QuanLySanPham.csproj.CoreCompileInputs.cache
+E:\Beesystem\W1\05-09-2024\BT_QUANLYSP\QuanLySanPham\obj\Debug\QuanLySanPham.DangNhap.resources
+E:\Beesystem\W1\05-09-2024\BT_QUANLYSP\QuanLySanPham\obj\Debug\QuanLySanPham.SanPham.resources
+E:\Beesystem\W1\05-09-2024\BT_QUANLYSP\QuanLySanPham\obj\Debug\QuanLySanPham.ChiTietSanPham.resources
+E:\Beesystem\W1\05-09-2024\BT_QUANLYSP\QuanLySanPham\bin\Debug\QuanLySanPham1.exe.config
+E:\Beesystem\W1\05-09-2024\BT_QUANLYSP\QuanLySanPham\bin\Debug\QuanLySanPham1.exe
+E:\Beesystem\W1\05-09-2024\BT_QUANLYSP\QuanLySanPham\bin\Debug\QuanLySanPham1.pdb
+E:\Beesystem\W1\05-09-2024\BT_QUANLYSP\QuanLySanPham\obj\Debug\QuanLySanPham1.exe
+E:\Beesystem\W1\05-09-2024\BT_QUANLYSP\QuanLySanPham\obj\Debug\QuanLySanPham1.pdb
+E:\Beesystem\W1\05-09-2024\BT_QUANLYSP\QuanLySanPham\obj\Debug\QuanLySanPham.Form1.resources
+E:\Beesystem\W1\05-09-2024\BT_QUANLYSP\QuanLySanPham\bin\Debug\Newtonsoft.Json.dll
+E:\Beesystem\W1\05-09-2024\BT_QUANLYSP\QuanLySanPham\bin\Debug\Newtonsoft.Json.xml
+E:\Beesystem\W1\05-09-2024\BT_QUANLYSP\QuanLySanPham\obj\Debug\QuanLySanPham.csproj.CopyComplete
