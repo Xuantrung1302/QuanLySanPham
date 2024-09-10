@@ -42,6 +42,8 @@ namespace QuanLySanPham
                 this.Hide();
             }    
         }
+
+        //Ham kiem tra dang nhap
         private bool CheckDangNhap()
         {
             if (txbTenDangNhap.Text == "")
